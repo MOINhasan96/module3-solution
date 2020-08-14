@@ -34,7 +34,7 @@ body {
 }*/
 
 .navbar-brand h1 {
-    color: #9370DB;
+    color: #FF69B4;
     font-family: 'Abril Fatface', cursive;
     font-weight: bolder;
     font-size: 1.8em;
@@ -48,7 +48,7 @@ body {
 #nav-item {
     margin-top: 10px;
     width: 100%;
-    background-color: #9999ff;
+    background-color: #DDA0DD;
 }
 
 #nav-item a {
