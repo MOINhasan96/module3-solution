@@ -71,6 +71,8 @@ body {
 } 
 
 .navbar.navbar-2 .navbar-toggler-icon {
+position: absolute;
+right:25px;
 background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=fff');
 }
 
