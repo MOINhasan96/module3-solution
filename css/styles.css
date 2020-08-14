@@ -63,8 +63,8 @@ body {
     background-color: #fce29e;
 }
 
-.navbar-header .navbar-toggler-icon {
-   position: absolute;
+.navbar-header button.navbar-toggler {
+   position: absolute no-repeat;
    right:25px;
    top: 25px;
    border: 1px solid #7d1913;
@@ -83,7 +83,7 @@ body {
    background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=fff');
 } */
 
-.navbar.navbar-2 .navbar-toggler-icon:hover {
+.navbar-header button.navbar-toggler:hover {
    color: #202020;
    background-color: #fce29e;
 }
