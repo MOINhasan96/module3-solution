@@ -45,22 +45,22 @@ body {
     text-shadow: 1px 1px 1px #fe9797;
 }
 
-/*#nav-list {
+#nav-item {
     margin-top: 10px;
     background-color: #e4af34;
 }
 
-#nav-list a {
+#nav-item a {
     font-weight: bolder;
     color: #282828;
     font-size: 1.2em;
 }
 
-#nav-list a:hover {
+#nav-item a:hover {
     color: #202020;
     background-color: #fce29e;
 }
-*/
+
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid #7d1913;
 }
