@@ -61,14 +61,14 @@ body {
     background-color: #fce29e;
 }
 
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+/*.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 0px solid #7d1913;
 }
 
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -30px;
-} 
+} */
 
 .navbar.navbar-2 .navbar-toggler-icon {
 position: absolute;
