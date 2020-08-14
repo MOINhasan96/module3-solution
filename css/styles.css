@@ -71,10 +71,15 @@ body {
 } */
 
 .navbar.navbar-2 .navbar-toggler-icon {
-position: absolute;
-right:25px;
-bottom: 20px;
-background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=fff');
+   position: absolute;
+   right:25px;
+   top: 25px;
+   background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=fff');
+}
+
+.navbar.navbar-2 .navbar-toggler-icon:hover {
+   color: #202020;
+   background-color: #fce29e;
 }
 
 /** END HEADER */
