@@ -34,7 +34,7 @@ body {
 }*/
 
 .navbar-brand h1 {
-    color: #7d1913;
+    color: #9370DB;
     font-family: 'Abril Fatface', cursive;
     font-weight: bolder;
     font-size: 1.8em;
@@ -107,14 +107,14 @@ body {
 }
 
 #main-section {
-    background-color: #ffcce0;
+    background-color: #FFC0CB;
     box-shadow: 0 0 50px #0f5900;
     padding: 30px;
 }
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: #FFC0CB;
     margin-bottom: 60px;
     box-shadow: 0 0 80px #18580b;
 }
