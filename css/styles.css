@@ -62,6 +62,13 @@ body {
     color: #202020;
     background-color: #fce29e;
 }
+
+@media(min-width: 768px){
+.navbar-header button.navbar-toggler {
+    visibility: hidden;
+ }
+}
+
 @media(max-width: 767px){
 .navbar-header button.navbar-toggler {
    position: absolute;
