@@ -63,16 +63,16 @@ body {
     background-color: #fce29e;
 }
 
-/*.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 0px solid #7d1913;
+.navbar-header button.navbar-toggler, .navbar-header .navbar-toggler-icon {
+    border: 1px solid #7d1913;
 }
 
-.navbar-header button.navbar-toggle {
+/*.navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -30px;
 } */
 
-.navbar.navbar-2 .navbar-toggler-icon {
+.navbar.navbar-2 .navbar-toggler-icon .visible-xs {
    position: absolute;
    right:25px;
    top: 25px;
