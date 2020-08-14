@@ -46,8 +46,9 @@ body {
 }
 
 #nav-item {
+    position: absolute;
     margin-top: 10px;
-    width: 300%;
+    width: 100%;
     background-color: #DDA0DD;
 }
 
