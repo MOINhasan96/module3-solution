@@ -65,6 +65,8 @@ body {
 
 .navbar-header button.navbar-toggler {
    position: absolute;
+   width: 1em;
+   height: 1em;
    right:25px;
    top: 25px;
    border: 1px solid #FF69B4;
