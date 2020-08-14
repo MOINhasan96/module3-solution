@@ -62,22 +62,18 @@ body {
     color: #202020;
     background-color: #fce29e;
 }
-
+@media(max-width: 767px){
 .navbar-header button.navbar-toggler {
    position: absolute;
-   width: 1em;
-   height: 1em;
    right:25px;
    top: 25px;
    border: 1px solid #FF69B4;
-  /* background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=fff');*/
 }
-
+    
 /*.navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -30px;
 } 
-
 .navbar-header .navbar-toggler-icon .visible-xs {
    position: absolute;
    right:25px;
@@ -88,6 +84,7 @@ body {
 .navbar-header button.navbar-toggler:hover {
    color: #202020;
    background-color: #fce29e;
+}
 }
 
 /** END HEADER */
