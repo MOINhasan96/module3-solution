@@ -68,7 +68,7 @@ body {
    right:25px;
    top: 25px;
    border: 1px solid #7d1913;
-   background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=fff');
+   background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=fff') no-repeat;
 }
 
 /*.navbar-header button.navbar-toggle {
