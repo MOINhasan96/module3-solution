@@ -48,7 +48,7 @@ body {
 #nav-item {
     position: absolute;
     margin-top: 10px;
-    width: 80%;
+    width: 90%;
     background-color: #DDA0DD;
 }
 
@@ -64,20 +64,24 @@ body {
 }
 
 .navbar-header button.navbar-toggler, .navbar-header .navbar-toggler-icon {
-    border: 1px solid #7d1913;
+   position: absolute;
+   right:25px;
+   top: 25px;
+   border: 1px solid #7d1913;
+   background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=fff');
 }
 
 /*.navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -30px;
-} */
+} 
 
-.navbar.navbar-2 .navbar-toggler-icon .visible-xs {
+.navbar-header .navbar-toggler-icon .visible-xs {
    position: absolute;
    right:25px;
    top: 25px;
    background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=fff');
-}
+} */
 
 .navbar.navbar-2 .navbar-toggler-icon:hover {
    color: #202020;
