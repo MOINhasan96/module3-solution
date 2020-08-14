@@ -58,17 +58,17 @@ body {
 #nav-list a:hover {
     color: #202020;
     background-color: #fce29e;
-}*/
+}
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid #7d1913;
 }
 
-/*.navbar-header button.navbar-toggle {
+.navbar-header button.navbar-toggle {
   clear: both;
-  margin-top: -30px;*/
+  margin-top: -30px;
 } 
-
+*/
 .navbar.navbar-2 .navbar-toggler-icon {
 background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=fff');
 }
