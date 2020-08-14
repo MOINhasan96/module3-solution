@@ -2,7 +2,7 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: #599e4b;
+    background-color: #e64cbf;
 }
 
 
@@ -10,7 +10,7 @@ body {
 
 #header-brand {
     position: relative;
-    background-color: #c98715;
+    background-color: #800060;
     border-radius: 0;
     border: 0;
 }
@@ -48,7 +48,7 @@ body {
 #nav-item {
     margin-top: 10px;
     width: 100%;
-    background-color: #e4af34;
+    background-color: #9999ff;
 }
 
 #nav-item a {
@@ -107,7 +107,7 @@ body {
 }
 
 #main-section {
-    background-color: #82d06b;
+    background-color: #ffcce0;
     box-shadow: 0 0 50px #0f5900;
     padding: 30px;
 }
