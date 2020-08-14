@@ -8,7 +8,7 @@ body {
 
 /* HEADER */
 
-#header-nav {
+#header-brand {
     background-color: #c98715;
     border-radius: 0;
     border: 0;
@@ -67,6 +67,10 @@ body {
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -30px;
+} 
+
+.navbar.navbar-2 .navbar-toggler-icon {
+background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=fff');
 }
 
 /** END HEADER */
